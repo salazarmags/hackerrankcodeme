@@ -1,0 +1,12 @@
+if __name__ == '__main__':
+    N = int(input())
+    commands = [c = input() for i in N]
+    
+    ls = []
+    
+    l = commands[i].split()
+    if == "insert":
+         l[] = v
+    elif s == "remove":
+        list[p]
+    
